@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp10": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\SlavaMar\\Desktop\\ДЗGB\\C#\\file1.txt add"
+    }
+  }
+}
